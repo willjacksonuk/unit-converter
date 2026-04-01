@@ -6,7 +6,7 @@ body {
 }
 
 #header-section {
-    background: #6943FF;
+    background: #0E2E3F;
     color: #ffffff;
     display: flex;
     flex-direction: column;
@@ -20,7 +20,7 @@ body {
     padding: 0.5rem;
     text-align: center;
     font-family: Inter;
-    border: solid #B295FF 1px;
+    border: solid #ffffff 1px;
     border-radius: 4px;
     background: transparent;
     color: #ffffff;
@@ -59,7 +59,7 @@ body {
 }
 
 h2 {
-    color: #5A537B
+    color: #0E2E3F
 }
 
 .info-text {
